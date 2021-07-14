@@ -1,8 +1,8 @@
 .search button {
-    border: 3px solid #000000;
+    border: 2px solid #144210;
 }
 
 .search button:hover {
-    background-color: #06af00;
-    color: #000000;
+    background-color: #2ee728;
+    color: #ffffff;
 }

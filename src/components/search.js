@@ -3,19 +3,18 @@ import "../css/search.css"
 
 const Search = (props) => {
     return (
-        <form> 
             <div className = "search">
+                <form clasName = "form-inline">
                 <input
                 onChange = {props.handleInputChange}
                 value = {props.search}
-                name = "search"
-                type = "text"
+                type = "search"
                 className = "form-control"
                 placeholder = "Search by first or last name"
                 id = "search"
                 />
-            </div>
-        </form>
+                </form>
+                </div>
     )
 }
 
