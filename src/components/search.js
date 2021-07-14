@@ -4,7 +4,7 @@ import "../css/search.css"
 const Search = (props) => {
     return (
         <form> 
-            <div className = "searchbox">
+            <div className = "search">
                 <input
                 onChange = {props.handleInputChange}
                 value = {props.search}

@@ -1,0 +1,14 @@
+.banner {
+    height: 250px;
+    color: rgb(0, 0, 0);
+    background-color: #28f000;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
