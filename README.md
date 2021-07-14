@@ -1,4 +1,4 @@
-#User-Directory
+# User-Directory
 
 This application will allow you to sort and search for users by name. 
 
