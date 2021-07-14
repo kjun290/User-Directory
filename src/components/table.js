@@ -76,8 +76,8 @@ class Table extends React.Component {
         <Search handleInputChange={this.handleInputChange}
           search={this.state.search} />
 
-        <div className="table-size">
-        <table className="table-size">
+        <div className="table">
+        <table className="table">
             <thead>
               <tr>
                 <th>Image</th>
